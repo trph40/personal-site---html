@@ -1,0 +1,27 @@
+.lists-joined{
+    font-family: monospace;
+    font-size: large;
+}
+.main-body{
+    font-family: sans-serif;
+}
+.change-row{
+    margin-left: auto;
+}
+.table-element{border: black;
+}
+
+hr {
+    border-style: dotted none none ;
+    width: 10%;
+    border-width: 5px;
+}
+h1{
+    color: #66bfbf;
+}
+h2{
+    color: #66bfbf;
+}
+h3 {
+    color: #66bfbf;
+}
